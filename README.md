@@ -1,6 +1,6 @@
 # Dracula for [Xboard](https://www.gnu.org/software/xboard/)
 
-> A dark theme for [Foobar](https://www.gnu.org/software/xboard/).
+> A dark theme for [Xboard](https://www.gnu.org/software/xboard/).
 
 ![Screenshot](./screenshot.png)
 
